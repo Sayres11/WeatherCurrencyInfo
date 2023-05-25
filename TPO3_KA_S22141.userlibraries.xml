@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="json-20211205">
+    <archive path="C:/Users/Aliaksei/Desktop/TPO3_KA_S22141/lib/json-20211205.jar" />
+  </library>
+  <library name="json-simple-1.1.1">
+    <archive path="C:/Users/Aliaksei/Desktop/TPO3_KA_S22141/lib/json-simple-1.1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
